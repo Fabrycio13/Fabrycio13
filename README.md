@@ -39,6 +39,7 @@ Meu foco é criar sistemas que pensam, decidem e executam com mínima intervenç
 </div>
 ---
 🚀 Projetos em Destaque
+
 🤖 Cindy Condômino — Agente IA Multi-Tenant
 > Agente conversacional completo para gestão condominial integrado ao WhatsApp e dashboard web.
 🏠 Cadastro de moradores, veículos e encomendas via chat
@@ -47,6 +48,7 @@ Meu foco é criar sistemas que pensam, decidem e executam com mínima intervenç
 🛠️ Stack: React · TypeScript · Supabase · Edge Functions · RAG · WhatsApp API
 ---
 📊 Dashboard Meta Ads + IA — Usabit
+
 > Painel analítico de alta performance para monitoramento estratégico de campanhas do Meta Ads.
 📈 KPIs em tempo real: Spend, Reach, CTR, CPC, CPM
 🗂️ Kanban de leads integrado com Google Sheets Sync
@@ -54,6 +56,7 @@ Meu foco é criar sistemas que pensam, decidem e executam com mínima intervenç
 🛠️ Stack: Next.js 15 · Tailwind CSS v4 · TypeScript · Meta Ads API
 ---
 🧑‍💼 Space Talent AI — RH Inteligente
+
 > Plataforma de recrutamento com IA para triagem, score e gestão de candidatos.
 🎯 Score automático de compatibilidade com base em currículos via IA
 📋 Pipeline Kanban visual do processo seletivo
@@ -61,6 +64,7 @@ Meu foco é criar sistemas que pensam, decidem e executam com mínima intervenç
 🛠️ Stack: React · TypeScript · Vite · Supabase · OpenAI
 ---
 🔬 Outros Projetos de IA
+
 Projeto	Descrição	Tecnologias
 🏦 Análise de Extratos	IA lê extratos bancários e gera perfil financeiro para decisão de crédito	N8N · GPT · PDF
 📋 Diagnóstico Digital	Questionário + IA gera plano de maturidade digital e alimenta RD Station via API	N8N · CRM · REST API
