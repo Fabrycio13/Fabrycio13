@@ -57,7 +57,7 @@ Sou um **Engenheiro de Software** especializado em **automação inteligente** e
 > Painel analítico de alta performance para monitoramento estratégico de campanhas do Meta Ads.
 
 - 📈 KPIs em tempo real: Spend, Reach, CTR, CPC, CPM
-- 🗂️ Kanban de leads integrado com Google Sheets Sync
+- 🗂️ Kanban de leads integrado with Google Sheets Sync
 - 🤖 Feedback automatizado com IA sobre performance de cada campanha
 - 🛠️ **Stack:** Next.js 15 · Tailwind CSS v4 · TypeScript · Meta Ads API
 
@@ -80,6 +80,16 @@ Sou um **Engenheiro de Software** especializado em **automação inteligente** e
 | 🏦 **Análise de Extratos** | IA lê extratos bancários e gera perfil financeiro para crédito | N8N · GPT · PDF |
 | 📋 **Diagnóstico Digital** | Questionário + IA gera plano de maturidade e alimenta RD Station | N8N · CRM · REST API |
 | 💰 **Gestor Financeiro IA** | Dashboard com IA que categoriza despesas e gera insights | N8N · Supabase · GPT |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Streak](https://streak-stats.demolab.com?user=Fabrycio13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
