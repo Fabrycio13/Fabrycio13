@@ -1,0 +1,39 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <defs>
+    <pattern id="g2" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#0866FF" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" fill="url(#g2)" opacity="0.06"/>
+  <circle cx="1100" cy="80" r="200" fill="#0866FF" opacity="0.05"/>
+  <circle cx="100" cy="200" r="120" fill="#00D9FF" opacity="0.04"/>
+
+  <!-- Barras de gráfico decorativas -->
+  <rect x="80" y="180" width="28" height="60" fill="#0866FF" opacity="0.5" rx="3"/>
+  <rect x="118" y="150" width="28" height="90" fill="#0866FF" opacity="0.6" rx="3"/>
+  <rect x="156" y="120" width="28" height="120" fill="#0866FF" opacity="0.7" rx="3"/>
+  <rect x="194" y="100" width="28" height="140" fill="#00D9FF" opacity="0.7" rx="3"/>
+  <rect x="232" y="130" width="28" height="110" fill="#0866FF" opacity="0.5" rx="3"/>
+
+  <!-- KPI cards decorativos direita -->
+  <rect x="900" y="60" width="110" height="50" fill="#0d2233" stroke="#0866FF" stroke-width="1" rx="6"/>
+  <text x="955" y="82" text-anchor="middle" fill="#00D9FF" font-size="11" font-family="monospace">CTR</text>
+  <text x="955" y="100" text-anchor="middle" fill="#e6edf3" font-size="16" font-family="monospace" font-weight="bold">3.8%</text>
+
+  <rect x="1030" y="60" width="110" height="50" fill="#0d2233" stroke="#0866FF" stroke-width="1" rx="6"/>
+  <text x="1085" y="82" text-anchor="middle" fill="#00D9FF" font-size="11" font-family="monospace">CPC</text>
+  <text x="1085" y="100" text-anchor="middle" fill="#e6edf3" font-size="16" font-family="monospace" font-weight="bold">R$1.24</text>
+
+  <rect x="900" y="130" width="110" height="50" fill="#0d2233" stroke="#00D9FF" stroke-width="1" rx="6"/>
+  <text x="955" y="152" text-anchor="middle" fill="#00D9FF" font-size="11" font-family="monospace">REACH</text>
+  <text x="955" y="170" text-anchor="middle" fill="#e6edf3" font-size="16" font-family="monospace" font-weight="bold">48.2K</text>
+
+  <rect x="1030" y="130" width="110" height="50" fill="#0d2233" stroke="#3fb950" stroke-width="1" rx="6"/>
+  <text x="1085" y="152" text-anchor="middle" fill="#3fb950" font-size="11" font-family="monospace">LEADS</text>
+  <text x="1085" y="170" text-anchor="middle" fill="#e6edf3" font-size="16" font-family="monospace" font-weight="bold">312</text>
+
+  <!-- Título -->
+  <text x="600" y="210" text-anchor="middle" fill="#e6edf3" font-size="30" font-family="monospace" font-weight="bold" letter-spacing="2">USABIT META ADS DASHBOARD</text>
+  <text x="600" y="248" text-anchor="middle" fill="#0866FF" font-size="14" font-family="monospace" letter-spacing="2">Next.js · TypeScript · Meta Ads API · IA Analytics</text>
+</svg>
