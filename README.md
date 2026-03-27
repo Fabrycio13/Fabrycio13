@@ -83,20 +83,6 @@ Sou um **Engenheiro de Software** especializado em **automação inteligente** e
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabrycio13&theme=2077)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabrycio13&theme=2077)
-
-[![Streak](https://streak-stats.demolab.com?user=Fabrycio13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Experiência
 
 ```
