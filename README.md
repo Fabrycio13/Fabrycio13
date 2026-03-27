@@ -87,9 +87,9 @@ Sou um **Engenheiro de Software** especializado em **automação inteligente** e
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fabrycio13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabrycio13&theme=2077)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrycio13&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fabrycio13&theme=2077)
 
 [![Streak](https://streak-stats.demolab.com?user=Fabrycio13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
