@@ -23,10 +23,13 @@ Sou um **Engenheiro de Software** especializado em **automação inteligente** e
 
 [![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)]()
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)]()
 [![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)]()
 [![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-00D9FF?style=for-the-badge&logo=probot&logoColor=white)]()
 [![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 [![Meta Ads](https://img.shields.io/badge/Meta_Ads_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)]()
+[![OpenCore](https://img.shields.io/badge/OpenCore-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 
 ## 🛠️ Stack de Desenvolvimento
 
