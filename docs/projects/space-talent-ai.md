@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fabryciobermudes/rh-ia-v2/main/banner.svg" alt="Space Talent Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Fabrycio13/Fabrycio13/main/banner-space-talent.svg" alt="Space Talent Banner" width="100%">
 </p>
 
 <h1 align="center">🚀 Space Talent AI</h1>

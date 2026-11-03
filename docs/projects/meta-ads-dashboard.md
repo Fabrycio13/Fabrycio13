@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fabryciobermudes/dashboard_usabit/main/banner.svg" width="100%" alt="Usabit Meta Ads Dashboard Banner">
+  <img src="https://raw.githubusercontent.com/Fabrycio13/Fabrycio13/main/banner-meta-ads.svg" width="100%" alt="Usabit Meta Ads Dashboard Banner">
 
   <br />
 

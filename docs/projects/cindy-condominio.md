@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/fabryciobermudes/cindy-condominio/main/banner.svg)
+![Banner](https://raw.githubusercontent.com/Fabrycio13/Fabrycio13/main/banner-cindy.svg)
 
 # Cindy Condomínio
 </div>
