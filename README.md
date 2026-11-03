@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-perfil.svg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
+<img src="./assets/banner-perfil.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
 
 <br /><br />
 
