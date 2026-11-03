@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/castelo-ghibli-16-5.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
+<img src="./assets/cidade-flutuante-16-5.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
 
 <br /><br />
 
@@ -153,7 +153,7 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Fabrycio13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9" alt="Fabrycio13 GitHub Stats" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Fabrycio13&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9" alt="Fabrycio13 GitHub Stats" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fabrycio13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="165" />
 
 <br /><br />
