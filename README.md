@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/headers/header_01_sobre_mim.svg" width="100%" alt="01 - Sobre Mim" />
+  <img src="./assets/headers/header_01_sobre_mim.png" width="100%" alt="01 - Sobre Mim" />
 </div>
 
 Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Coding Agents** e **automação inteligente**. Atualmente na **Usabit**, projeto e construo arquiteturas corporativas de ponta a ponta conectando modelos generativos a fluxos de negócio reais — desde a qualificação analítica de leads e automação de campanhas até agentes multi-tenant de atendimento e triagem.
@@ -29,7 +29,7 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 ---
 
 <div align="center">
-  <img src="./assets/headers/header_02_projetos.svg" width="100%" alt="02 - Projetos em Destaque" />
+  <img src="./assets/headers/header_02_projetos.png" width="100%" alt="02 - Projetos em Destaque" />
 </div>
 
 ### 🤖 [Diário de Engenharia: IA & Coding Agents](https://github.com/Fabrycio13/Relatorios-IA)
@@ -119,7 +119,7 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 ---
 
 <div align="center">
-  <img src="./assets/headers/header_03_stacks.svg" width="100%" alt="03 - Stacks & Tecnologias" />
+  <img src="./assets/headers/header_03_stacks.png" width="100%" alt="03 - Stacks & Tecnologias" />
 </div>
 
 ### 🤖 IA, Modelos & Coding Agents
@@ -156,7 +156,7 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 ---
 
 <div align="center">
-  <img src="./assets/headers/header_04_stats.svg" width="100%" alt="04 - Estatísticas do GitHub" />
+  <img src="./assets/headers/header_04_stats.png" width="100%" alt="04 - Estatísticas do GitHub" />
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 ---
 
 <div align="center">
-  <img src="./assets/headers/header_05_trajetoria.svg" width="100%" alt="05 - Trajetória Profissional" />
+  <img src="./assets/headers/header_05_trajetoria.png" width="100%" alt="05 - Trajetória Profissional" />
 </div>
 
 ```
