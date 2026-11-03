@@ -82,14 +82,14 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-### 🧑‍💼 [Space Talent AI — RH Inteligente](https://github.com/Fabrycio13/ia_rh_usabit)
+### 🧑‍💼 [Usabit People — RH Inteligente](https://github.com/Fabrycio13/ia_rh_usabit)
 > Plataforma de recrutamento e seleção com IA para triagem rápida, score de candidatos e pipeline visual.
 
 - 🎯 Score automático de compatibilidade baseado em currículos via modelos de IA
 - 📋 Pipeline Kanban visual e fluido do processo seletivo
 - 💬 Assistente IA integrado para apoio em decisões e automações
 - 🛠️ **Stack:** React · TypeScript · Vite · Supabase · OpenAI
-- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fia__rh__usabit-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/ia_rh_usabit) · [![Documentação](https://img.shields.io/badge/Doc-Space_Talent_AI-0969da?style=flat-square&logo=readme)](docs/projects/space-talent-ai.md)
+- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fia__rh__usabit-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/ia_rh_usabit) · [![Documentação](https://img.shields.io/badge/Doc-Usabit_People-0969da?style=flat-square&logo=readme)](docs/projects/usabit-people.md)
 
 ---
 

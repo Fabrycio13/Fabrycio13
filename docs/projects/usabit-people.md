@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabrycio13/Fabrycio13/main/banner-space-talent.svg" alt="Space Talent Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Fabrycio13/Fabrycio13/main/banner-usabit-people.svg" alt="Usabit People Banner" width="100%">
 </p>
 
-<h1 align="center">🚀 Space Talent AI</h1>
+<h1 align="center">🚀 Usabit People</h1>
 
 <p align="center">
   <strong>Elevando o potencial humano com Inteligência Artificial.</strong>
@@ -19,7 +19,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Space Talent** é uma plataforma de última geração para Recrutamento e Seleção (R&S). Combinando o poder da Inteligência Artificial com uma interface intuitiva e premium, o sistema foca em transformar a maneira como você descobre e gerencia talentos.
+O **Usabit People** é uma plataforma de última geração para Recrutamento e Seleção (R&S). Combinando o poder da Inteligência Artificial com uma interface intuitiva e premium, o sistema foca em transformar a maneira como você descobre e gerencia talentos.
 
 Diga adeus à triagem manual cansativa e receba insights precisos sobre cada candidato em segundos.
 
