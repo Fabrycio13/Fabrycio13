@@ -50,6 +50,17 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
+### 📑 [MDS Crédito Imobiliário — Gerador de Laudos](https://github.com/Fabrycio13/project-mds)
+> Plataforma para emissão e gestão automatizada de laudos de crédito imobiliário e simulações habitacionais.
+
+- 📄 Emissão dinâmica de laudos financeiros e simulações de financiamento em PDF de alta fidelidade
+- 🎨 Interface dark/luxury com cálculo em tempo real, validações e preenchimento ágil
+- 🧪 Engenharia com suíte de testes automatizados, acessibilidade (A11y), SEO e documentação de memória técnica
+- 🛠️ **Stack:** JavaScript · Vite · jsPDF · Flatpickr · HTML5 / CSS3 · Test Runner
+- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fproject--mds-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/project-mds)
+
+---
+
 ### 🌐 [Portfólio Web Imersivo](https://fabrycio.vercel.app/)
 > Experiência visual interativa de alta performance apresentando projetos, serviços e canais de contato com motion design.
 
@@ -103,30 +114,38 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-## ⚙️ Stack de IA, Coding Agents & Automação
+## ⚙️ Stacks & Tecnologias
 
-[![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+### 🤖 IA, Modelos & Coding Agents
 [![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini_&_Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
-[![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-00D9FF?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/topics/multi-agent-systems)
-[![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://business.whatsapp.com/)
-[![Meta Ads](https://img.shields.io/badge/Meta_Ads_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/docs/marketing-apis/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-00D9FF?style=for-the-badge&logo=google&logoColor=black)](https://cloud.google.com/)
+[![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-22C55E?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/topics/multi-agent-systems)
+
+### ⚡ Automação & Conectores
+[![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://business.whatsapp.com/)
+[![Meta Ads API](https://img.shields.io/badge/Meta_Ads_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/docs/marketing-apis/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
 
-## 🛠️ Stack de Desenvolvimento Fullstack
-
+### 💻 Frontend & Interfaces
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### 🗄️ Backend, Banco de Dados & Infra
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ---
 
