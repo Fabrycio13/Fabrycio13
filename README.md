@@ -18,7 +18,9 @@
 
 ---
 
-## 🧠 Sobre Mim
+<div align="center">
+  <img src="./assets/headers/header_01_sobre_mim.svg" width="100%" alt="01 - Sobre Mim" />
+</div>
 
 Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Coding Agents** e **automação inteligente**. Atualmente na **Usabit**, projeto e construo arquiteturas corporativas de ponta a ponta conectando modelos generativos a fluxos de negócio reais — desde a qualificação analítica de leads e automação de campanhas até agentes multi-tenant de atendimento e triagem.
 
@@ -26,7 +28,9 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-## 🚀 Projetos em Destaque
+<div align="center">
+  <img src="./assets/headers/header_02_projetos.svg" width="100%" alt="02 - Projetos em Destaque" />
+</div>
 
 ### 🤖 [Diário de Engenharia: IA & Coding Agents](https://github.com/Fabrycio13/Relatorios-IA)
 > Automação ponta a ponta para curadoria, síntese analítica por IA e entrega diária por e-mail sobre o ecossistema de Coding Agents, papers e ferramentas open-source.
@@ -114,7 +118,9 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-## ⚙️ Stacks & Tecnologias
+<div align="center">
+  <img src="./assets/headers/header_03_stacks.svg" width="100%" alt="03 - Stacks & Tecnologias" />
+</div>
 
 ### 🤖 IA, Modelos & Coding Agents
 [![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
@@ -149,7 +155,9 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-## 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="./assets/headers/header_04_stats.svg" width="100%" alt="04 - Estatísticas do GitHub" />
+</div>
 
 <div align="center">
 
@@ -164,7 +172,9 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 
 ---
 
-## 🏆 Trajetória Profissional
+<div align="center">
+  <img src="./assets/headers/header_05_trajetoria.svg" width="100%" alt="05 - Trajetória Profissional" />
+</div>
 
 ```
 📅 Mai 2024 – Presente   |  Engenheiro de IA & Automação @ Usabit

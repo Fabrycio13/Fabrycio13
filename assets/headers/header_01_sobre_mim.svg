@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 68" width="850" height="68">
+  <defs>
+    <linearGradient id="skyGrad_01" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0288D1"/>
+      <stop offset="45%" stop-color="#00B0FF"/>
+      <stop offset="85%" stop-color="#40C4FF"/>
+      <stop offset="100%" stop-color="#80D8FF"/>
+    </linearGradient>
+
+    <linearGradient id="castleSlate_01" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071927"/>
+      <stop offset="100%" stop-color="#0F2D4A"/>
+    </linearGradient>
+
+    <linearGradient id="goldAccent_01" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB300"/>
+      <stop offset="100%" stop-color="#FFF9C4"/>
+    </linearGradient>
+
+    <radialGradient id="sunGlow_01" cx="90%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#FFB300" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#00B0FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="ribbonShadow_01" x="-5%" y="-10%" width="115%" height="135%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3.5" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <!-- Sombra 3D da dobra inferior -->
+  <polygon points="28,56 838,56 820,64 42,64" fill="#03111C"/>
+
+  <!-- Barra de base dourada sutil -->
+  <polygon points="12,54 840,54 832,58 20,58" fill="url(#goldAccent_01)" opacity="0.85"/>
+
+  <!-- Bloco Esquerdo: Numeração (Castle Slate) -->
+  <polygon points="10,6 135,6 110,54 10,54" fill="url(#castleSlate_01)" filter="url(#ribbonShadow_01)"/>
+  <polygon points="10,6 135,6 133,9 12,9" fill="#29B6F6" opacity="0.4"/>
+  <text x="63" y="41" font-family="'Segoe UI', Roboto, 'Fira Code', sans-serif" font-size="30" font-weight="900" fill="#00E5FF" text-anchor="middle" letter-spacing="1">01</text>
+
+  <!-- Faixa Principal: Ghibli Sky & Atmospheric Clouds -->
+  <g filter="url(#ribbonShadow_01)">
+    <polygon points="130,12 840,12 822,54 106,54" fill="url(#skyGrad_01)"/>
+    <polygon points="130,12 840,12 822,54 106,54" fill="url(#sunGlow_01)"/>
+    <path d="M 620,54 Q 640,32 670,36 Q 690,24 720,30 Q 750,22 780,34 Q 810,30 824,45 L 822,54 Z" fill="#FFFFFF" opacity="0.22"/>
+  </g>
+
+  <!-- Chanfro / Vinco 3D entre os blocos com filete iluminado -->
+  <polygon points="106,54 130,12 136,12 112,54" fill="#01579B" opacity="0.7"/>
+  <line x1="131" y1="12" x2="107" y2="54" stroke="url(#goldAccent_01)" stroke-width="2.5"/>
+
+  <!-- Título e Subtítulo -->
+  <text x="160" y="34" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="18" font-weight="900" fill="#061B2E" letter-spacing="1.5">SOBRE MIM</text>
+  <text x="160" y="47" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="10.5" font-weight="700" fill="#0A3A63" letter-spacing="0.8">ENGENHARIA DE SOFTWARE & ARQUITETURA DE AGENTES</text>
+
+  <!-- Ícone estilizado à direita -->
+  <g transform="translate(775, 18)" stroke="#061B2E" stroke-width="2" fill="none">
+    
+        <circle cx="16" cy="15" r="13" stroke-width="1.8"/>
+        <ellipse cx="16" cy="15" rx="13" ry="5.5" stroke-width="1.2" opacity="0.75"/>
+        <ellipse cx="16" cy="15" rx="5.5" ry="13" stroke-width="1.2" opacity="0.75"/>
+        <circle cx="16" cy="15" r="2.5" fill="#FFB300" stroke="none"/>
+        
+  </g>
+</svg>
