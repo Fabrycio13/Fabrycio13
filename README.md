@@ -4,7 +4,7 @@
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FFB300&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+o+Fabrycio+%F0%9F%91%8B;Construo+agentes+de+IA+que+trabalham+de+verdade+%F0%9F%A4%96;De+processos+manuais+a+pipelines+aut%C3%B4nomos+%E2%9A%99%EF%B8%8F;RAG+%C2%B7+Multi-Agent+%C2%B7+Coding+Agents;TypeScript+%C2%B7+Python+%C2%B7+N8N+%C2%B7+Supabase;Bora+automatizar+algo+juntos%3F+%F0%9F%9A%80)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FFB300&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+o+Fabrycio+%F0%9F%91%8B;Construo+e+orquestro+AI+Agents+%F0%9F%A4%96;Automa%C3%A7%C3%A3o+inteligente%2C+do+prot%C3%B3tipo+%C3%A0+produ%C3%A7%C3%A3o+%E2%9A%99%EF%B8%8F)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -36,5 +36,7 @@ Você pode me encontrar em qualquer uma das redes abaixo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrycio.bermudes)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](https://fabrycio.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521986866460)
+
+<img src="./assets/robo.svg" width="120" alt="Robozinho acenando" />
 
 </div>
