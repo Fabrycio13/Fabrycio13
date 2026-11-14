@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/cidade-flutuante-16-5.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
+<img src="./assets/banner-animado.svg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software, IA & Automação" />
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Fabrycio+Bermudes+%F0%9F%91%8B;Engenheiro+de+Software+%26+IA+%F0%9F%A4%96;Automa%C3%A7%C3%A3o+Inteligente+%7C+Coding+Agents+%7C+RAG;Multi-Agent+Architecture+%7C+Fullstack+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=FFB300&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+o+Fabrycio+%F0%9F%91%8B;Construo+agentes+de+IA+que+trabalham+de+verdade+%F0%9F%A4%96;De+processos+manuais+a+pipelines+aut%C3%B4nomos+%E2%9A%99%EF%B8%8F;RAG+%C2%B7+Multi-Agent+%C2%B7+Coding+Agents;TypeScript+%C2%B7+Python+%C2%B7+N8N+%C2%B7+Supabase;Bora+automatizar+algo+juntos%3F+%F0%9F%9A%80)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br />
 
