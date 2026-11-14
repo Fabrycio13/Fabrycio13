@@ -19,11 +19,15 @@ Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. 
 
 ## 🛠️ Stacks
 
+As ferramentas que uso no dia a dia para tirar agentes do papel e colocar em produção:
+
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,vite,tailwind,nodejs,supabase,postgres,redis,git,github,githubactions,vercel&perline=17" width="100%" alt="Minhas stacks" /></a>
 
 ## 💬 Vamos conversar
 
 Você pode me encontrar em qualquer uma das redes abaixo!
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabrycio13)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabrycio.bermudes)
@@ -31,3 +35,5 @@ Você pode me encontrar em qualquer uma das redes abaixo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrycio.bermudes)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](https://fabrycio.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521986866460)
+
+</div>
