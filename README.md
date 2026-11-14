@@ -8,9 +8,7 @@
 
 </div>
 
----
-
-### 👋 Sobre mim
+## 💡 Sobre mim
 
 Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. Projeto sistemas em que vários agentes de IA colaboram, usam ferramentas e executam fluxos completos, do protótipo à produção.
 
@@ -19,19 +17,13 @@ Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. 
 - ⚙️ Integro LLMs a APIs, bancos de dados e bancos vetoriais
 - 💬 Pode me perguntar sobre arquitetura de agentes e automação com IA
 
----
-
-<div align="center">
-
-### 🛠️ Stacks
+## 🛠️ Stacks
 
 [![Minhas stacks](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,supabase,postgres,redis,git,githubactions,vercel&perline=7)](https://skillicons.dev)
 
-</div>
+## 💬 Vamos conversar
 
----
-
-<div align="center">
+Você pode me encontrar em qualquer uma das redes abaixo!
 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabrycio13)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabrycio.bermudes)
@@ -39,5 +31,3 @@ Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrycio.bermudes)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](https://fabrycio.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521986866460)
-
-</div>
