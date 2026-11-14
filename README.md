@@ -19,7 +19,7 @@ Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. 
 
 ## 🛠️ Stacks
 
-[![Minhas stacks](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,supabase,postgres,redis,git,githubactions,vercel&perline=7)](https://skillicons.dev)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,vite,tailwind,nodejs,supabase,postgres,redis,git,github,githubactions,vercel&perline=17" width="100%" alt="Minhas stacks" /></a>
 
 ## 💬 Vamos conversar
 
