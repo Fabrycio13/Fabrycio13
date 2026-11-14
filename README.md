@@ -12,6 +12,16 @@
 
 <div align="center">
 
+### 🛠️ Stacks
+
+[![Minhas stacks](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,supabase,postgres,redis,git,githubactions,vercel&perline=7)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabrycio13)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabrycio.bermudes)
 [![Gmail](https://img.shields.io/badge/Gmail-FF9900?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bermudes.fbc@gmail.com)
