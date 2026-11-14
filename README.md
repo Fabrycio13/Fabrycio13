@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-animado.svg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software, IA & Automação" />
+<img src="./assets/cidade-flutuante-16-5.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
 
 <br /><br />
 
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabrycio.bermudes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrycio.bermudes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521986866460)
 [![Gmail](https://img.shields.io/badge/Email-bermudes.fbc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bermudes.fbc@gmail.com)
-![Location](https://img.shields.io/badge/Rio_de_Janeiro-RJ-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -22,7 +21,7 @@
   <img src="./assets/headers/header_01_sobre_mim.png" width="100%" alt="01 - Sobre Mim" />
 </div>
 
-Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Coding Agents** e **automação inteligente**. Atualmente na **Usabit**, projeto e construo arquiteturas corporativas de ponta a ponta conectando modelos generativos a fluxos de negócio reais — desde a qualificação analítica de leads e automação de campanhas até agentes multi-tenant de atendimento e triagem.
+Engenheiro de Software na **Usabit**, focado em **agentes de IA e automação**. Conecto modelos generativos a processos reais de negócio: qualificação de leads, campanhas de marketing e atendimento automatizado. Baseado no Rio de Janeiro.
 
 > *"Transformo fluxos complexos em agentes que pensam, decidem e executam."*
 
@@ -32,89 +31,25 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
   <img src="./assets/headers/header_02_projetos.png" width="100%" alt="02 - Projetos em Destaque" />
 </div>
 
-### 🤖 [Diário de Engenharia: IA & Coding Agents](https://github.com/Fabrycio13/Relatorios-IA)
-> Automação ponta a ponta para curadoria, síntese analítica por IA e entrega diária por e-mail sobre o ecossistema de Coding Agents, papers e ferramentas open-source.
-
-- ⚙️ Pipeline autônomo com web scraping, curadoria de tendências e sintetização analítica via LLMs
-- 🏛️ Engenharia de ponta documentada: vocabulário ubíquo ([GLOSSARY.md](https://github.com/Fabrycio13/Relatorios-IA/blob/main/GLOSSARY.md)), mapa de arquitetura técnica e registros formais de decisão (ADRs)
-- 📬 Distribuição automatizada de relatórios executivos formatados diretamente por e-mail
-- 🛠️ **Stack:** Python · N8N · Multi-Agent Architecture · LLMs · GitHub Actions · Email Automation
-- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2FRelatorios--IA-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/Relatorios-IA)
-
----
-
-### 🔍 [GitHub Intelligence — CLI & Evidence Dashboard](https://github.com/Fabrycio13/github-intelligence)
-> Ferramenta determinística de monitoramento e auditoria de repositórios GitHub com geração de relatórios baseados em evidências.
-
-- 📊 Coleta auditável e somente-leitura de métricas e atividades do GitHub via App API
-- 📋 CLI determinística com relatórios em Markdown e dashboard local com sidebar interativa
-- 🔒 Persistência opcional em PostgreSQL / Supabase operando com schema restrito e políticas de segurança
-- 🛠️ **Stack:** Python · PostgreSQL · Supabase · GitHub Apps API · Rich CLI · Data Evidence
-- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fgithub--intelligence-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/github-intelligence)
-
----
-
-### 📑 [MDS Crédito Imobiliário — Gerador de Laudos](https://github.com/Fabrycio13/project-mds)
-> Plataforma para emissão e gestão automatizada de laudos de crédito imobiliário e simulações habitacionais.
-
-- 📄 Emissão dinâmica de laudos financeiros e simulações de financiamento em PDF de alta fidelidade
-- 🎨 Interface dark/luxury com cálculo em tempo real, validações e preenchimento ágil
-- 🧪 Engenharia com suíte de testes automatizados, acessibilidade (A11y), SEO e documentação de memória técnica
-- 🛠️ **Stack:** JavaScript · Vite · jsPDF · Flatpickr · HTML5 / CSS3 · Test Runner
-- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fproject--mds-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/project-mds)
-
----
-
-### 🌐 [Portfólio Web Imersivo](https://fabrycio.vercel.app/)
-> Experiência visual interativa de alta performance apresentando projetos, serviços e canais de contato com motion design.
-
-- ⚡ Renderização ultra-otimizada com carregamento por proximidade do viewport
-- 🎨 Transições fluidas em canvas, navegação suave e tipografia animada
-- 🛠️ **Stack:** JavaScript · TypeScript · CSS Moderno / Canvas · Vercel
-- 🔗 **Acessos:** [![Demo Ao Vivo](https://img.shields.io/badge/Demo_Ao_Vivo-fabrycio.vercel.app-00D9FF?style=flat-square&logo=vercel&logoColor=black)](https://fabrycio.vercel.app/) · [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fportifolio__fabrycio-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/portifolio_fabrycio)
-
----
-
-### 🤖 Cindy Condômino — Agente IA Multi-Tenant
-> Agente conversacional completo para gestão condominial integrado ao WhatsApp e dashboard web.
-
-- 🏠 Cadastro de moradores, veículos e encomendas via chat natural
-- 📚 RAG com documentos específicos e isolados por condomínio
-- 🔀 Arquitetura multi-tenant com isolamento estrito de dados no Supabase
-- 🛠️ **Stack:** React · TypeScript · Supabase · Edge Functions · RAG · WhatsApp API
-- 🔗 **Acessos:** [![Documentação](https://img.shields.io/badge/Doc-Cindy_Condomínio-0969da?style=flat-square&logo=readme)](docs/projects/cindy-condominio.md) · `[Case Corporativo]`
-
----
-
-### 📊 Dashboard Meta Ads + IA — Usabit
-> Painel analítico de alta performance para monitoramento estratégico de campanhas do Meta Ads.
-
-- 📈 KPIs em tempo real: Spend, Reach, CTR, CPC, CPM
-- 🗂️ Kanban de leads integrado com sincronização automática no Google Sheets
-- 🤖 Feedback automatizado via IA avaliando performance individual de cada anúncio
-- 🛠️ **Stack:** Next.js 15 · Tailwind CSS v4 · TypeScript · Meta Ads API
-- 🔗 **Acessos:** [![Documentação](https://img.shields.io/badge/Doc-Meta_Ads_Dashboard-0969da?style=flat-square&logo=readme)](docs/projects/meta-ads-dashboard.md) · `[Case Corporativo — Usabit]`
-
----
-
-### 🧑‍💼 [Usabit People — RH Inteligente](https://github.com/Fabrycio13/ia_rh_usabit)
-> Plataforma de recrutamento e seleção com IA para triagem rápida, score de candidatos e pipeline visual.
-
-- 🎯 Score automático de compatibilidade baseado em currículos via modelos de IA
-- 📋 Pipeline Kanban visual e fluido do processo seletivo
-- 💬 Assistente IA integrado para apoio em decisões e automações
-- 🛠️ **Stack:** React · TypeScript · Vite · Supabase · OpenAI
-- 🔗 **Acessos:** [![GitHub Repo](https://img.shields.io/badge/GitHub-Fabrycio13%2Fia__rh__usabit-181717?style=flat-square&logo=github)](https://github.com/Fabrycio13/ia_rh_usabit) · [![Documentação](https://img.shields.io/badge/Doc-Usabit_People-0969da?style=flat-square&logo=readme)](docs/projects/usabit-people.md)
-
----
-
-### 🔬 Outras Soluções de Automação & IA
-
-| Solução | Descrição | Tecnologias |
+| Projeto | O que faz | Stack |
 |---|---|---|
-| 🏦 **Análise Inteligente de Extratos** | Pipeline que processa PDFs bancários e sintetiza perfil financeiro para crédito | N8N · OpenAI GPT · PDF Parser |
-| 📋 **Diagnóstico Digital Automatizado** | Coleta diagnóstica com síntese por IA e sincronização direta no RD Station CRM | N8N · RD Station · REST API |
-| 💰 **Gestor Financeiro com IA** | Dashboard inteligente com categorização autônoma de despesas e geração de insights | N8N · Supabase · GPT |
+| 🤖 [**Diário de Engenharia**](https://github.com/Fabrycio13/Relatorios-IA) | Coleta novidades sobre Coding Agents, resume com LLMs e envia um relatório diário por e-mail | Python · N8N · GitHub Actions |
+| 🔍 [**GitHub Intelligence**](https://github.com/Fabrycio13/github-intelligence) | CLI e dashboard que auditam repositórios e geram relatórios baseados em evidências | Python · PostgreSQL · Supabase |
+| 🧑‍💼 [**Usabit People**](https://github.com/Fabrycio13/ia_rh_usabit) | Triagem de candidatos com score por IA e pipeline Kanban do processo seletivo | React · TypeScript · Supabase · OpenAI |
+| 📑 [**MDS Crédito Imobiliário**](https://github.com/Fabrycio13/project-mds) | Gera laudos e simulações de financiamento imobiliário em PDF | JavaScript · Vite · jsPDF |
+| 🌐 [**Portfólio Web**](https://fabrycio.vercel.app/) | Meu site pessoal, com animações em canvas ([código](https://github.com/Fabrycio13/portifolio_fabrycio)) | TypeScript · Canvas · Vercel |
+
+<details>
+<summary><b>💼 Cases corporativos</b> (código privado)</summary>
+<br />
+
+- **Cindy Condômino**: agente de WhatsApp para condomínios, com RAG e dados isolados por condomínio. [Documentação](docs/projects/cindy-condominio.md)
+- **Dashboard Meta Ads + IA**: KPIs de campanhas, Kanban de leads e feedback de cada anúncio gerado por IA. [Documentação](docs/projects/meta-ads-dashboard.md)
+- **Análise de Extratos**: lê PDFs bancários e monta o perfil financeiro para análise de crédito.
+- **Diagnóstico Digital**: questionário com síntese por IA, enviado direto para o RD Station CRM.
+- **Gestor Financeiro**: categoriza despesas automaticamente e gera insights com IA.
+
+</details>
 
 ---
 
@@ -122,36 +57,33 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
   <img src="./assets/headers/header_03_stacks.png" width="100%" alt="03 - Stacks & Tecnologias" />
 </div>
 
-### 🤖 IA, Modelos & Coding Agents
-[![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
-[![Antigravity](https://img.shields.io/badge/Antigravity-00D9FF?style=for-the-badge&logo=google&logoColor=black)](https://cloud.google.com/)
-[![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-22C55E?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/topics/multi-agent-systems)
+<div align="center">
 
-### ⚡ Automação & Conectores
-[![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://business.whatsapp.com/)
-[![Meta Ads API](https://img.shields.io/badge/Meta_Ads_API-0866FF?style=for-the-badge&logo=meta&logoColor=white)](https://developers.facebook.com/docs/marketing-apis/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+**IA & Automação**
 
-### 💻 Frontend & Interfaces
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-22C55E?style=flat-square)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Meta Ads API](https://img.shields.io/badge/Meta_Ads_API-0866FF?style=flat-square&logo=meta&logoColor=white)
 
-### 🗄️ Backend, Banco de Dados & Infra
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+**Desenvolvimento**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
@@ -164,10 +96,6 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Fabrycio13&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&v=2" alt="Fabrycio13 GitHub Stats" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Fabrycio13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" height="165" />
 
-<br /><br />
-
-[![Streak](https://streak-stats.demolab.com?user=Fabrycio13&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -176,50 +104,8 @@ Sou um **Engenheiro de Software** especializado em **Engenharia de IA**, **Codin
   <img src="./assets/headers/header_05_trajetoria.png" width="100%" alt="05 - Trajetória Profissional" />
 </div>
 
-```
-📅 Mai 2024 – Presente   |  Engenheiro de IA & Automação @ Usabit
-   └─ Arquitetura de Agentes · N8N · RAG · Multi-Agent Systems · Meta Ads API
+- **Engenheiro de IA & Automação** @ Usabit · *mai/2024 – hoje*
+- **Antes:** 5 anos em áreas administrativa e financeira (Grupo Frigoforte e Power Flex), onde aprendi na prática regras de negócio, fluxo de caixa e análise de crédito.
 
-📅 2019 – 2023            |  Assistente Administrativo @ Grupo Frigoforte
-   └─ Controle financeiro · Fluxo de caixa · CNAB · Regras de negócio corporativas
-
-📅 2018 – 2019            |  Auxiliar Administrativo @ Power Flex Distribuidora
-   └─ Faturamento · Análise de crédito · Catálogos digitais · Gestão de estoque
-```
-
----
-
-## 🎓 Formação Acadêmica
-
-```
-🎓 Bacharelado em Engenharia de Software — Universidade Estácio de Sá (2019–2024)
-🎓 Técnico em Administração — Instituto Geremário Dantas (2006)
-```
-
----
-
-## 🌎 Idiomas
-
-![Português](https://img.shields.io/badge/Português-Nativo-009C3B?style=flat-square)
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-012169?style=flat-square)
-![Espanhol](https://img.shields.io/badge/Espanhol-Básico-AA151B?style=flat-square)
-
----
-
-<div align="center">
-
-### 🤝 Vamos conversar ou construir algo juntos?
-
-Seja para discutir arquiteturas de **Coding Agents**, **Pipelines com IA Generativa** ou oportunidades em engenharia de software:
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://fabrycio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrycio.bermudes)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521986866460)
-
-<br />
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Fabrycio13.Fabrycio13&left_color=gray&right_color=00D9FF)
-
-*Construindo o futuro com agentes que pensam, decidem e executam.* 🤖
-
-</div>
+🎓 Engenharia de Software · Universidade Estácio de Sá (2024)<br />
+🌎 Português nativo · Inglês intermediário · Espanhol básico
