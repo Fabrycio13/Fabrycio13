@@ -28,7 +28,7 @@ As ferramentas que uso no dia a dia para tirar agentes do papel e colocar em pro
 Você pode me encontrar em qualquer uma das redes abaixo!
 
 <div align="center">
-
+<br /><br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fabrycio13)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabrycio.bermudes)
