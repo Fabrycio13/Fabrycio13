@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cidade-flutuante-16-5.jpg" width="100%" alt="Fabrycio Bermudes - Engenheiro de Software & Agentes de IA" />
+<img src="./assets/banner-fuji.svg" width="100%" alt="Monte Fuji ao entardecer com lago e árvores de outono" />
 
 <br /><br />
 
