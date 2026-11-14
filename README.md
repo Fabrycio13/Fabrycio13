@@ -10,6 +10,17 @@
 
 ---
 
+### 👋 Sobre mim
+
+Engenheiro de Software focado em **AI Agents** e **orquestração de agentes**. Projeto sistemas em que vários agentes de IA colaboram, usam ferramentas e executam fluxos completos, do protótipo à produção.
+
+- 🔭 Hoje construo agentes de atendimento, triagem e automação
+- 🧠 Foco em orquestração multi-agente, RAG e Coding Agents
+- ⚙️ Integro LLMs a APIs, bancos de dados e bancos vetoriais
+- 💬 Pode me perguntar sobre arquitetura de agentes e automação com IA
+
+---
+
 <div align="center">
 
 ### 🛠️ Stacks
