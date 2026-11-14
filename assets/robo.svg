@@ -1,9 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Robozinho acenando">
-  <title>Robozinho acenando</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Robozinho samurai acenando">
+  <title>Robozinho samurai acenando</title>
   <defs>
     <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#3a4d6e"/>
       <stop offset="1" stop-color="#22304a"/>
+    </linearGradient>
+    <linearGradient id="lacquer" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8402e"/>
+      <stop offset="1" stop-color="#8a1f17"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/>
+      <stop offset="1" stop-color="#d99a2b"/>
     </linearGradient>
     <radialGradient id="core">
       <stop offset="0" stop-color="#FFE9A0"/>
@@ -15,10 +23,10 @@
     .bot   { animation: bob 2.4s ease-in-out infinite; }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
 
-    .shadow { transform-origin: 80px 148px; animation: shadow 2.4s ease-in-out infinite; }
+    .shadow { transform-origin: 80px 152px; animation: shadow 2.4s ease-in-out infinite; }
     @keyframes shadow { 0%, 100% { transform: scaleX(1); opacity: .35; } 50% { transform: scaleX(.85); opacity: .2; } }
 
-    .wave  { transform-origin: 108px 92px; animation: wave 1.6s ease-in-out infinite; }
+    .wave  { transform-origin: 108px 94px; animation: wave 1.6s ease-in-out infinite; }
     @keyframes wave {
       0%, 100% { transform: rotate(-150deg); }
       50%      { transform: rotate(-110deg); }
@@ -39,40 +47,66 @@
     }
   </style>
 
-  <ellipse class="shadow" cx="80" cy="148" rx="30" ry="5" fill="#000"/>
+  <ellipse class="shadow" cx="80" cy="152" rx="32" ry="5" fill="#000"/>
 
   <g class="bot">
-    <!-- antena -->
-    <line x1="80" y1="18" x2="80" y2="32" stroke="#8fa3c4" stroke-width="3" stroke-linecap="round"/>
-    <circle class="led" cx="80" cy="14" r="5" fill="#00D9FF"/>
+    <!-- katana nas costas -->
+    <g transform="rotate(38 80 108)">
+      <rect x="14" y="104" width="118" height="7" rx="3.5" fill="#1b1b22" stroke="#d99a2b" stroke-width="1"/>
+      <rect x="2" y="103" width="20" height="9" rx="3" fill="#f2efe6"/>
+      <path d="M5 103 l4 9 M11 103 l4 9 M17 103 l4 9" stroke="#1b1b22" stroke-width="1.6"/>
+      <rect x="21" y="100.5" width="4" height="14" rx="1.5" fill="url(#gold)"/>
+    </g>
 
-    <!-- orelhas -->
-    <rect x="38" y="46" width="8" height="16" rx="3" fill="#00D9FF"/>
-    <rect x="114" y="46" width="8" height="16" rx="3" fill="#00D9FF"/>
+    <!-- shikoro: placas laterais do elmo -->
+    <path d="M44 40 L32 46 L30 64 L44 60 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M116 40 L128 46 L130 64 L116 60 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M32 53 L44 50 M31 59 L44 56 M128 53 L116 50 M129 59 L116 56" stroke="#ffe08a" stroke-width="1" opacity=".7"/>
 
     <!-- cabeça -->
-    <rect x="44" y="30" width="72" height="48" rx="14" fill="url(#metal)" stroke="#00D9FF" stroke-width="2.5"/>
-    <rect x="52" y="40" width="56" height="28" rx="10" fill="#0d1117"/>
-    <rect class="eye" x="62" y="47" width="10" height="12" rx="4" fill="#00D9FF"/>
-    <rect class="eye" x="88" y="47" width="10" height="12" rx="4" fill="#00D9FF"/>
-    <path d="M73 63 q7 5 14 0" fill="none" stroke="#00D9FF" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="44" y="34" width="72" height="46" rx="14" fill="url(#metal)" stroke="#00D9FF" stroke-width="2.5"/>
+    <rect x="52" y="46" width="56" height="26" rx="10" fill="#0d1117"/>
+    <rect class="eye" x="62" y="52" width="10" height="11" rx="4" fill="#00D9FF"/>
+    <rect class="eye" x="88" y="52" width="10" height="11" rx="4" fill="#00D9FF"/>
+    <path d="M73 66 q7 5 14 0" fill="none" stroke="#00D9FF" stroke-width="2.5" stroke-linecap="round"/>
 
-    <!-- braço esquerdo (parado) -->
-    <rect x="34" y="88" width="12" height="30" rx="6" fill="url(#metal)" stroke="#00D9FF" stroke-width="2"/>
+    <!-- kabuto: elmo -->
+    <path d="M40 44 Q40 18 80 16 Q120 18 120 44 Q80 36 40 44 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M52 30 Q80 22 108 30 M47 37 Q80 29 113 37" fill="none" stroke="#ffe08a" stroke-width="1" opacity=".6"/>
+    <!-- maedate: chifres dourados -->
+    <path d="M80 22 Q66 12 52 2 Q70 8 80 16 Q90 8 108 2 Q94 12 80 22 Z" fill="url(#gold)" stroke="#8a5a14" stroke-width="1"/>
+    <circle cx="80" cy="22" r="6" fill="url(#gold)" stroke="#8a5a14" stroke-width="1"/>
+    <circle class="led" cx="80" cy="22" r="3" fill="#00D9FF"/>
+
+    <!-- braço esquerdo + ombreira -->
+    <rect x="34" y="92" width="12" height="28" rx="6" fill="url(#metal)" stroke="#00D9FF" stroke-width="2"/>
+    <path d="M28 84 L50 84 L50 100 L28 104 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M28 90 L50 89 M28 96 L50 95" stroke="#ffe08a" stroke-width="1" opacity=".7"/>
 
     <!-- braço direito (acenando) -->
     <g class="wave">
-      <rect x="102" y="88" width="12" height="30" rx="6" fill="url(#metal)" stroke="#00D9FF" stroke-width="2"/>
-      <circle cx="108" cy="122" r="7" fill="#8fa3c4" stroke="#00D9FF" stroke-width="2"/>
+      <rect x="102" y="90" width="12" height="30" rx="6" fill="url(#metal)" stroke="#00D9FF" stroke-width="2"/>
+      <circle cx="108" cy="124" r="7" fill="#8fa3c4" stroke="#00D9FF" stroke-width="2"/>
     </g>
 
-    <!-- corpo -->
+    <!-- corpo + dō (peitoral) -->
     <rect x="50" y="82" width="60" height="50" rx="12" fill="url(#metal)" stroke="#00D9FF" stroke-width="2.5"/>
-    <circle class="heart" cx="80" cy="102" r="8" fill="url(#core)"/>
-    <rect x="66" y="117" width="28" height="4" rx="2" fill="#00D9FF" opacity=".5"/>
+    <path d="M54 88 Q80 82 106 88 L104 128 Q80 132 56 128 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M56 108 Q80 104 104 108 M56 116 Q80 112 104 116 M56 124 Q80 120 104 124" fill="none" stroke="#ffe08a" stroke-width="1.2" opacity=".75"/>
+    <circle cx="80" cy="96" r="9" fill="#0d1117" stroke="#ffe08a" stroke-width="1.2"/>
+    <circle class="heart" cx="80" cy="96" r="6" fill="url(#core)"/>
+
+    <!-- ombreira direita (fixa) -->
+    <path d="M110 84 L132 84 L132 104 L110 100 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M110 89 L132 90 M110 95 L132 96" stroke="#ffe08a" stroke-width="1" opacity=".7"/>
+
+    <!-- kusazuri: saia de placas -->
+    <path d="M52 128 L66 128 L64 142 L50 140 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.2" stroke-linejoin="round"/>
+    <path d="M70 129 L90 129 L90 143 L70 143 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.2" stroke-linejoin="round"/>
+    <path d="M94 128 L108 128 L110 140 L96 142 Z" fill="url(#lacquer)" stroke="#ffe08a" stroke-width="1.2" stroke-linejoin="round"/>
 
     <!-- pernas -->
-    <rect x="60" y="132" width="12" height="10" rx="3" fill="#8fa3c4"/>
-    <rect x="88" y="132" width="12" height="10" rx="3" fill="#8fa3c4"/>
+    <rect x="60" y="138" width="12" height="9" rx="3" fill="#8fa3c4"/>
+    <rect x="88" y="138" width="12" height="9" rx="3" fill="#8fa3c4"/>
   </g>
 </svg>
